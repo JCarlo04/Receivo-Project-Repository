@@ -5,5 +5,4 @@ Project will be updated and shared through this repository
 
 Do NOT push to main branch bro pls
 
-Name files sa "date-receivo-V#"
-  "9/14/25 - Receivo - V1"
+Make your own branch para sure
