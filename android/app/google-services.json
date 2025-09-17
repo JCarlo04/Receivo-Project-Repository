@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "124566344864",
+    "project_id": "receivo-expense-tracker",
+    "storage_bucket": "receivo-expense-tracker.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124566344864:android:f470fc4608672aef6065c5",
+        "android_client_info": {
+          "package_name": "com.example.receivo_expense"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALqpfSn9pE6tVz8JK5rnkb1accCnRRstI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -9,6 +9,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  firebase_core: ^2.32.0
+  firebase_auth: ^4.2.5
+  cloud_firestore: ^4.4.5
   cupertino_icons: ^1.0.2
   persistent_bottom_nav_bar_v2: ^6.1.0
 
